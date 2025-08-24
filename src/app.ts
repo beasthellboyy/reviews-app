@@ -1,3 +1,5 @@
+// App typescript
+
 import express from 'express';
 import bodyParser from 'body-parser';
 import { setReviewRoutes } from './routes/reviewRoutes';
